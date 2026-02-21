@@ -9,6 +9,7 @@ We believe in absolute privacy.
 No Personal Information: The Extension does NOT collect, store, or transmit any personally identifiable information (PII) such as names, email addresses, or location data.
 No Web History: The Extension does NOT track your browsing history or monitor the websites you visit.
 Local Storage ONLY: The Extension uses the chrome.storage API solely to save your local preferences, specifically your volume level and playback state. This data stays on your machine and is never sent to our servers.
+
 2. Audio Streaming
 The Extension provides a stream from an external audio source (radiojar.com). When you play the radio, your browser connects directly to the stream provider. Please refer to their respective privacy policies regarding data handled during streaming (such as your IP address, which is standard for HTTP requests).
 
